@@ -1,0 +1,75 @@
+[
+    {
+        "name":"William Aboagye",
+        "department":"Photography",
+        "dob":"20 June 1998",
+        "age":"21"
+    },
+    {
+        "name":"Samuel Amoah",
+        "department":"Programming",
+        "dob":"3 February 1995",
+        "age":"24"
+
+    },
+    {
+        "name":"Beatrice Darko",
+        "department":"Entertainment",
+        "dob":"14 October 1996",
+        "age":"23"
+    },
+    {
+        "name":"Maxwell Goku",
+        "department":"Sports",
+        "dob":"5 March 1999",
+        "age":"20"
+    },
+    {
+        "name":"Mensah Bentum",
+        "department":"Lifestyle",
+        "dob":"12 August 1995",
+        "age":"24"
+    },
+    {
+        "name":"Fred Obeng",
+        "department":"Information",
+        "dob":"14 January 1999",
+        "age":"20"
+    },
+    {
+        "name":"Linda Eyram",
+        "department":"Entertainment",
+        "dob":"16 July 1997",
+        "age":"22"
+    },
+    {
+        "name":"Kelly Terbi",
+        "department":"Secretariat",
+        "dob":"25 September 1997",
+        "age":"22"
+    },
+    {
+        "name":"George William",
+        "department":"Management",
+        "dob":"2 July 1994",
+        "age":"25"
+    },
+    {
+        "name":"Ann Marie",
+        "department":"Accounting",
+        "dob":"3 November 1994",
+        "age":"25"
+    },
+    {
+        "name":"Olivia Darko",
+        "department":"Management",
+        "dob":"6 May 1994",
+        "age":"25"
+    },
+    {
+        "name":"Vanessa Laryea",
+        "department":"Marketing",
+        "dob":"7 July 1997",
+        "age":"22"
+    }
+]

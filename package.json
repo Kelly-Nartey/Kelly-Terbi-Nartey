@@ -1,0 +1,23 @@
+{
+  "name": "easysoftcompanylimited",
+  "version": "1.0.0",
+  "description": "to do list",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "employee"
+  ],
+  "author": "kelly",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "task":"Prepare Reports",
+        "department":"Secretariat",
+        "staff":"Kelly Terbi",
+        "status":"✅"
+        
+    },
+    {
+        "task":"Advertisements",
+        "department":"Marketing",
+        "staff":"Vanessa Laryea",
+        "status":"❌"
+        
+    },
+    {
+        "task":"Analyse Reorts",
+        "department":"Management",
+        "staff":"George William",
+        "status":"⌛"
+        
+    },
+    {
+        "task":"Financial Statements",
+        "department":"Accounting",
+        "staff":"Ann Marie",
+        "status":"❌"
+        
+    }
+]
